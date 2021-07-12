@@ -1,0 +1,14 @@
+@font-face{
+	font-family:fuente-gruesa;
+	src:url(SourceSansPro-Regular.ttf);
+}
+
+@font-face{
+	font-family:fuente-delgada;
+	src:url(SourceSansPro-Light.ttf);
+}
+
+@font-face{
+	font-family:gamer;
+	src:url(DarkMage.ttf);
+}
